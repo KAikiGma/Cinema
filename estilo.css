@@ -1,0 +1,23 @@
+.gif {
+    text-align: center;
+    padding: 15px;
+}
+
+.gif img {
+    object-fit: cover;
+    width: 1200px;
+    height: 400px;
+}
+
+.icones-cartao img {
+    width: 300px;
+    height: 300px;
+    text-align: center;
+    padding: 15px;
+    display: inline-block;
+    object-fit: cover;
+}
+
+.icones-cartao {
+    text-align: center;
+}

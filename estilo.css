@@ -10,8 +10,8 @@
 }
 
 .icones-cartao img {
-    width: 300px;
-    height: 300px;
+    width: 350px;
+    height: 500px;
     text-align: center;
     padding: 15px;
     display: inline-block;
@@ -20,4 +20,23 @@
 
 .icones-cartao {
     text-align: center;
+}
+
+.banner img{
+    width: 80px;
+    height: 80px;
+}
+
+.banner{
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+html{
+    scroll-behavior: smooth;
 }
